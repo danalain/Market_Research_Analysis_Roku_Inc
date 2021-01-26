@@ -109,11 +109,11 @@ News API provides free requests of one month old data with limitation on the amo
 
 | Percent Total by Sentiment for +600 Roku Related News API Headlines |
 | ------------------------------------------------------------------- |
-| <img src="Images/sentiment_text.png" width="1000" />                | 
+| <img src="Images/sentiment_text.png" width="800" />                | 
 
 | One Month Linear Timeline of Roku News API Headlines within Dec-2020 to Jan-2021|
 | ------------------------------------------------------------------------------- |
-| <img src="Images/newsapi_headline.png" width="1000" />                          |
+| <img src="Images/newsapi_headline.png" width="800" />                          |
 
 To analyze the linear sentiment over the month, I used the bar plot as shown above. In both visuals, the general news headlines about Roku are positive. Even though the following may be subjected to confirmation bias, there might be a possible correlation between the dip in positive sentiment news headlines at the end of 2020 with the decrease in Roku's stock prices around the same time.
 
@@ -127,7 +127,7 @@ Finviz provides the visitor of its website with information on stock prices and 
 
 | Over 1-Month Linear Timeline of [Roku Headlines on FinViz](https://www.finviz.com/quote.ashx?t=roku) |
 | ---------------------------------------------------------------------------------------------------- |
-| <img src="Images/finviz_headline.png" width="1000" />                                                |
+| <img src="Images/finviz_headline.png" width="800" />                                                |
 
 Confirmation bias may as well be the reason why using multiple sources for sentiment analysis is important. The chart shows a major consistency in positive sentiment for article headlines shown on the Roku section of the Website. However, it does not include article headlines that favor negative sentiment at the last week of 2020 where there was a slight dip in its stock prices. Even though it does not represent the entirety of the sentiment, the general sentiment of Roku in January 2021 leans largely towards positive. 
 
@@ -150,7 +150,7 @@ For example, when the SMA50 crosses the SMA100 from above and goes below, then i
 
 | Dual Moving Average Crossover Trading Strategy |
 | ---------------------------------------------- |
-| <img src="Images/dual_ma.png" width="1000" />  |
+| <img src="Images/dual_ma.png" width="800" />  |
 
 | Entry Date | Exit Date  | Shares | Entry Share Price | Exit Share Price | Entry Portfolio Holding | Exit Portfolio Holding| Profit/Loss|
 | ---------- | ---------- | ------ | ----------------- | ---------------- | ----------------------- | --------------------- | ---------- |
@@ -164,7 +164,7 @@ The above chart shows the entry to the stock market as a green dot and exit as a
 
 The reason why a long-term investment strategy may be a better fit for investing in Roku is that this is a growth stock with high anticipation to turn into a heavily profitable company in the future. The company may be valued differently based on the narrative of different valuation analysts.
 
-[<img src="Images/valuation.png" />](Spreadsheet/valuation.xlsx)
+<img src="Images/valuation.png" />
 
 You can download the valuation spreadsheet [here](Spreadsheet/valuation.xlsx). My calculation of the required rate of return was based on the weighted-average cost of capital which is 16.38%. It is used to calculate the discounted cash flow. To find the Free Cash Flow, I used the Yahoo Finance analysts' average revenue assumptions for 2020 and 2021. Then, I assumed that the revenue will grow at an average rate of 48% after 2021. For the amount of active account growth, I assumed that the high acquisition of new active accounts may be stimulated by the ongoing pandemic. As the pandemic ends and the effects fade, other industries such as broadcast televisions and people who work there will go back to work and recover. Therefore, I assumed that the acquisition rate for active accounts will decrease gradually from 40% to an average rate of 10% after 2025. 
 
