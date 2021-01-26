@@ -98,10 +98,10 @@ Sentiment Analysis is an effective method to gain insight into how the general p
 
 ##### Files
 
-1. [News API +600 Headlines]("Codes/sentiment_analysis_newsapi.ipynb")
-2. [News API Timeline]("Codes/sentiment_analysis_newsapi_date.ipynb")
-3. [FinViz Website Scrapping]("Codes/sentiment_analysis_finviz.ipynb")
-4. [Sentiment Visualizations]("Codes/sentiment_visualization.ipynb")
+1. [News API +600 Headlines](Codes/sentiment_analysis_newsapi.ipynb)
+2. [News API Timeline](Codes/sentiment_analysis_newsapi_date.ipynb)
+3. [FinViz Website Scrapping](Codes/sentiment_analysis_finviz.ipynb)
+4. [Sentiment Visualizations](Codes/sentiment_visualization.ipynb)
 
 #### 1. News API
 
@@ -139,7 +139,7 @@ When investing in a company, investors usually take two paths depending on their
 
 ##### Files
 
-1. [Code for DMAC Strategy](Codes/investment_strategy.ipynb)
+1. [Code for DMAC Strategy](Codes/Investment_strategy.ipynb)
 2. [Valuation Spreadsheet](Spreadsheet/valuation.xlsx)
 
 #### 1. Dual Moving Average Crossover Trading Strategy
@@ -168,7 +168,7 @@ The reason why a long-term investment strategy may be a better fit for investing
 
 You can download the valuation spreadsheet [here](Spreadsheet/valuation.xlsx). My calculation of the required rate of return was based on the weighted-average cost of capital which is 16.38%. It is used to calculate the discounted cash flow. To find the Free Cash Flow, I used the Yahoo Finance analysts' average revenue assumptions for 2020 and 2021. Then, I assumed that the revenue will grow at an average rate of 48% after 2021. For the amount of active account growth, I assumed that the high acquisition of new active accounts may be stimulated by the ongoing pandemic. As the pandemic ends and the effects fade, other industries such as broadcast televisions and people who work there will go back to work and recover. Therefore, I assumed that the acquisition rate for active accounts will decrease gradually from 40% to an average rate of 10% after 2025. 
 
-Therefore, Roku will have an estimated 250 million active accounts by 2030. The operating margin is based on mature companies in the ad-business which is 20%. Finally, I assumed a 2.5% perpetual growth rate which aligns with the average growth rate of the global economy. My discounted cash flow model valued the company at around 43 billion dollars suggesting the value of the stock at 338 USD per share at the year ended 2020. As of January 25, 2021, Roku stock is priced at 425 USD per share. However, holding Roku shares in the long term is the best way to invest in this company since it is still a maturing company that has a large prospect for growth in the global market with large public support for its long term success.   
+Therefore, Roku will have an estimated 250 million active accounts by 2030. The operating margin is based on mature companies in the ad-business which is 20%. Finally, I assumed a 2.5% perpetual growth rate which aligns with the average growth rate of the global economy. My discounted cash flow model valued the company at around 43 billion dollars suggesting the value of the stock at 338 USD per share at the year ended 2020. As of January 25, 2021, Roku stock is priced at 425 USD per share. The stock price is overvalued at the moment. However, holding Roku shares in the long term is the best way to invest in this company since it is still a maturing company that has a large prospect for growth in the global market with large public support for its long term success.   
 
 ---
 ### References for Valuation

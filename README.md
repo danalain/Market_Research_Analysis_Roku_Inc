@@ -98,10 +98,10 @@ Sentiment Analysis is an effective method to gain insight into how the general p
 
 ##### Files
 
-1. [News API +600 Headlines]("Codes/sentiment_analysis_newsapi.ipynb")
-2. [News API Timeline]("Codes/sentiment_analysis_newsapi_date.ipynb")
-3. [FinViz Website Scrapping]("Codes/sentiment_analysis_finviz.ipynb")
-4. [Sentiment Visualizations]("Codes/sentiment_visualization.ipynb")
+1. [News API +600 Headlines](Codes/sentiment_analysis_newsapi.ipynb)
+2. [News API Timeline](Codes/sentiment_analysis_newsapi_date.ipynb)
+3. [FinViz Website Scrapping](Codes/sentiment_analysis_finviz.ipynb)
+4. [Sentiment Visualizations](Codes/sentiment_visualization.ipynb)
 
 #### 1. News API
 
@@ -139,7 +139,7 @@ When investing in a company, investors usually take two paths depending on their
 
 ##### Files
 
-1. [Code for DMAC Strategy](Codes/investment_strategy.ipynb)
+1. [Code for DMAC Strategy](Codes/Investment_strategy.ipynb)
 2. [Valuation Spreadsheet](Spreadsheet/valuation.xlsx)
 
 #### 1. Dual Moving Average Crossover Trading Strategy
