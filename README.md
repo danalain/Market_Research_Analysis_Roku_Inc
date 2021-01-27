@@ -31,7 +31,7 @@ Roku's business model is unique in the popular streaming business. Although it s
 
 #### People
 
-As the majority of the population are staying at home during this ongoing pandemic, Roku's products and services have increased their relevance especially among the youths between 18 to 34-year-old. According to [Roku Q1 2020 Shareholder Letter](https://www.sec.gov/Archives/edgar/data/0001428439/000156459020022846/roku-ex991_6.htm), "primetime linear viewing among adults 18-34 from March 16 to April 19 was down 18% year-over-year, and nearly half of TV viewing by this important demographic was streamed." With its affordable pricing, Roku also attracts the majority of viewers from low to medium income households. As the products are getting a more polished look over the years, Roku has becoming one step closer to their focused mission of powering every TV in the world.  
+As the majority of the population are staying at home during this ongoing pandemic, Roku's products and services have increased their relevance especially among the youths between 18 to 34-year-old. According to [Roku Q1 2020 Shareholder Letter](https://www.sec.gov/Archives/edgar/data/0001428439/000156459020022846/roku-ex991_6.htm), "primetime linear viewing among adults 18-34 from March 16 to April 19 was down 18% year-over-year, and nearly half of TV viewing by this important demographic was streamed." With its affordable pricing, Roku also attracts the majority of viewers from low to medium income households. As the products are getting a more polished look over the years, Roku has become one step closer to their focused mission of powering every TV in the world.  
 
 #### Product 
 
