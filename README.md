@@ -25,7 +25,7 @@ This is where Roku comes into the picture. Without participating in the streamin
 
 Furthermore, Roku TV’s competitive edge in gaining customers is its affordable hardware prices that provide better acquisition results compared to other streaming TV devices. A quick Google search can provide the comparative prices as above figure. However, as Roku competes with heavy hitters such as Google, Amazon, and Apple, one might wonder how can it possibly make money just by selling low price hardware and hosting streaming channels.
 
-#### 2. Business Model and Market Share
+#### 2. Business Model
 
 Roku's business model is unique in the popular streaming business. Although it sells hardware and players, Roku is not in the player business but the advertising business as it charges a portion of its affiliates' ad-revenues. Therefore, a detailed look at Roku's 5Ps as follows can provide a better understanding of its business model and its market.
 
@@ -87,7 +87,7 @@ Roku has occasional promotions on their players and TV sets. Roku also offers tr
 
 #### 3. Growth Opportunities
 
-In the first month of 2021, Roku has a 50.57 billion dollar market capitalization. Roku [reported a 55% increase](https://blog.roku.com/en-gb/50-million#!#) inactive accounts from 32.3 million in 2019 to over 50 million in the start of 2020. In 2019, Roku also acquired a programmatic marketing software provider, Dataxu. It enhances Roku's ability to advertise more effectively to the viewers. Data is becoming the most valuable asset for every company and Roku can leverage its data from the 46 million active accounts to increase advertising revenues in the future. 
+In the first month of 2021, Roku has a 50.57 billion dollar market capitalization. Roku [reported a 55% increase](https://blog.roku.com/en-gb/50-million#!#) inactive accounts from 32.3 million in 2019 to over 50 million in the start of 2020. In 2019, Roku also acquired a programmatic marketing software provider, Dataxu. It enhances Roku's ability to advertise more effectively to the viewers. Data is becoming the most valuable asset for every company and Roku can leverage its data from the 50 million+ active accounts to increase advertising revenues in the future. 
 
 Currently, Roku is already providing the channels on its platform with a variety of data analytic resources. For example, its [channel engagement report](https://developer.roku.com/en-gb/docs/features/analytics/channel-engagement.md) provides information on how many hours of content the viewers of that channel is watching and [video statistic report](https://developer.roku.com/en-gb/docs/features/analytics/video-statistics.md) shows which type of content the viewers watch the most. Hence, the content providers can use this information to create a better content library for their audiences. With these attractive features, Roku can grow its channel partnership substantially in the future. With more channels, Roku is also in the best position to attract more customers in the foreseeable future.   
 
