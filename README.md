@@ -23,7 +23,7 @@ Welcome to the streaming wars! As the pandemic has put many people inside their 
 
 This is where Roku comes into the picture. Without participating in the streaming war, Roku provides a platform for these competing streaming services to reach general audiences at a wider scale. Recently, there has also been a shift from traditional cable to Streaming TV Platforms due to a better selection of quality content with a lower price.
 
-Furthermore, Roku TV’s competitive edge in gaining customers is its affordable hardware prices that provide better acquisition results compared to other streaming TV devices. A quick Google search can provide the comparative prices as above figure. However, as Roku competes with heavy hitters such as Google, Amazon, and Apple, one might wonder how can it possibly make money just by selling low price hardware and hosting streaming channels.
+Furthermore, Roku TV’s competitive edge in gaining customers is its affordable hardware prices that provide better acquisition results compared to other streaming TV devices. However, as Roku players compete with streaming devices from Google, Amazon, and Apple, one might wonder how can it possibly make money just by selling low price hardware and hosting streaming channels.
 
 #### 2. Business Model
 
