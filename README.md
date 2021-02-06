@@ -1,6 +1,6 @@
 # Market Research & Financial Analysis: ROKU
 ---
-<img src="Images/roku_logo.jpg" />
+<img src="Images/Roku_Gif.gif" />
 
 ## Background
 
