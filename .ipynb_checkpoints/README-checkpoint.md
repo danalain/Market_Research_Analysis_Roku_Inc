@@ -1,6 +1,6 @@
 # Market Research & Financial Analysis: ROKU
 ---
-<img src="Images/roku_logo.jpg" />
+<img src="Images/Roku_Gif.gif" width="800" />
 
 ## Background
 
@@ -23,19 +23,19 @@ Welcome to the streaming wars! As the pandemic has put many people inside their 
 
 This is where Roku comes into the picture. Without participating in the streaming war, Roku provides a platform for these competing streaming services to reach general audiences at a wider scale. Recently, there has also been a shift from traditional cable to Streaming TV Platforms due to a better selection of quality content with a lower price.
 
-Furthermore, Roku TV’s competitive edge in gaining customers is its affordable hardware prices that provide better acquisition results compared to other streaming TV devices. A quick Google search can provide the comparative prices as above figure. However, as Roku competes with heavy hitters such as Google, Amazon, and Apple, one might wonder how can it possibly make money just by selling low price hardware and hosting streaming channels.
+Furthermore, Roku TV’s competitive edge in gaining customers is its affordable hardware prices that provide better acquisition results compared to other streaming TV devices. However, as Roku players compete with streaming devices from Google, Amazon, and Apple, one might wonder how can it possibly make money just by selling low price hardware and hosting streaming channels.
 
-#### 2. Business Model and Market Share
+#### 2. Business Model
 
 Roku's business model is unique in the popular streaming business. Although it sells hardware and players, Roku is not in the player business but the advertising business as it charges a portion of its affiliates' ad-revenues. Therefore, a detailed look at Roku's 5Ps as follows can provide a better understanding of its business model and its market.
 
 #### People
 
-As the majority of the population are staying at home during this ongoing pandemic, Roku's products and services have increased their relevance especially among the youths between 18 to 34-year-old. According to [Roku Q1 2020 Shareholder Letter](https://www.sec.gov/Archives/edgar/data/0001428439/000156459020022846/roku-ex991_6.htm), "primetime linear viewing among adults 18-34 from March 16 to April 19 was down 18% year-over-year, and nearly half of TV viewing by this important demographic was streamed." With its affordable pricing, Roku also attracts the majority of viewers from low to medium income households. As the products are getting a more polished look over the years, Roku has becoming one step closer to their focused mission of powering every TV in the world.  
+As the majority of the population are staying at home during this ongoing pandemic, Roku's products and services have increased their relevance especially among the youths between 18 to 34-year-old. According to [Roku Q1 2020 Shareholder Letter](https://www.sec.gov/Archives/edgar/data/0001428439/000156459020022846/roku-ex991_6.htm), "primetime linear viewing among adults 18-34 from March 16 to April 19 was down 18% year-over-year, and nearly half of TV viewing by this important demographic was streamed." With its affordable pricing, Roku also attracts the majority of viewers from low to medium income households. As the products are getting a more polished look over the years, Roku has become one step closer to their focused mission of powering every TV in the world.  
 
 #### Product 
 
-Roku has two main categories of a product consisting of their player products, and the platform itself. The player category comprises three product segments which include streaming player devices, audio solution devices, and the Roku TV products. The player market is a strategic front to solidify Roku's market share with its affordable pricing strategy. The following figures include hyperlinks to view the devices in each category. 
+Roku has two main categories of product consisting of their player products, and the platform itself. The player category comprises three product segments which include streaming player devices, audio solution devices, and the Roku TV products. The player market is a strategic front to solidify Roku's market share with its affordable pricing strategy. The following figures include hyperlinks to view the devices in each category. 
 
 | [Explore Players](https://www.roku.com/products/players) | [Explore Audio Solutions](https://www.roku.com/products/audio/) |
 | -------------------------------------------------------- | --------------------------------------------------------------- |
@@ -47,7 +47,7 @@ Roku has two main categories of a product consisting of their player products, a
 
 After a successful user acquisition, Roku provides the users with a quality platform that hosts a variety of streaming services that Roku has partnered with including Netflix, Disney+, Apple TV, Amazon Prime TV, Hulu, and Spotify, etc. The platform includes three on-demand streaming models which include Subscription Video-On-Demand (SVOD), Transactional Video-On-Demand (TVOD), and Advertising Video-On-Demand (AVOD). 
 
-Subscription VOD is a service in which it delivers an unlimited amount of content for consumers with a recurring payment. Transactional VOD is a service that sells a selected content for a one-time payment. Advertising VOD is a service that delivers content that includes advertisements. Since the start of the global pandemic, Roku's AVOD side has taken a hit as most companies reduced their advertising budget. The shareholder letter reassured that the decrease in AVOD ad-revenue was offset by ad-spend that has moved from traditional TV budgets. Meanwhile, SVOD and TVOD pulling in more revenue. Now, let's get into detail about how each of these products is priced and how much each product makes.
+Subscription VOD is a service in which it delivers an unlimited amount of content for consumers with a recurring payment. Transactional VOD is a service that sells a selected content for a one-time payment. Advertising VOD is a service that delivers content that includes advertisements. Since the start of the global pandemic, Roku's AVOD side has taken a hit as most companies reduced their advertising budget. The shareholder letter reassured that the decrease in AVOD ad-revenue was offset by ad-spend that has moved from traditional TV budgets. Meanwhile, SVOD and TVOD are pulling in more revenue. Now, let's get into detail about how each of these products is priced and how much each product makes.
 
 #### Price
 
@@ -63,9 +63,9 @@ Roku Inc brings over 90% of gross profits from its Platform business. However, u
 |------------------------------------------------------ | ----------------------------------------------------- |
 | <img src="Images/2020_product_pie.png" width="400" /> | <img src="Images/2019_product_pie.png" width="400" /> |
 
-Prices for basic streaming devices start as cheaply as \$24.99 and ranges to \$179.99. Prices of audio solutions such as soundbars range from \$129.99 to \$199.99 and act more as an add-on to the basic streaming devices in which the majority of the first time buyers may not venture. Roku TV on the other hand partners with TV producers such as Magnavox, TCL, Westinghouse, Philips, JVC, Hisense and so and pre-includes Roku TV as a primary streaming platform. The prices of 32" TV ranges from \$115.00 to \$149.99.
+Prices for basic streaming devices start as cheaply as \$24.99 and ranges to \$179.99. Prices of audio solutions such as soundbars range from \$129.99 to \$199.99 and act more as an add-on to the basic streaming devices in which the majority of the first time buyers may not venture. Roku TV, on the other hand, partners with TV producers such as Magnavox, TCL, Westinghouse, Philips, JVC, Hisense and so and pre-includes Roku TV as a primary streaming platform. The prices of 32" TV ranges from \$115.00 to \$149.99.
 
-There are two competitive edges that Roku possesses in regards to pricing. According to Roku's CFO Steve Louden, the low price of its streaming devices was enabled by the [structural advantage](https://www.nexttv.com/features/rokus-structural-advantage-its-cheaper) of using low powered chips that run on tight memory footprint. In contrast, Apple TV or other streaming services use high power chips by leveraging their own Operating Systems. The second competitive edge is that its neutrality and low prices enable its partnership with the biggest retailers such as Walmart. You may not see Amazon streaming devices on Walmart shelves as the two companies are competitors in retail.
+There are two competitive edges that Roku possesses in regards to pricing. According to Roku's former CFO Steve Louden, the low price of its streaming devices was enabled by the [structural advantage](https://www.nexttv.com/features/rokus-structural-advantage-its-cheaper) of using low powered chips that run on tight memory footprint. In contrast, Apple TV or other streaming services use high power chips by leveraging their own Operating Systems. The second competitive edge is that its neutrality and low prices enable its partnership with the biggest retailers such as Walmart. You may not see Amazon streaming devices on Walmart shelves as the two companies are competitors in retail.
 
 |  Price Comparison Among Popular Streaming TV devices |
 | ---------------------------------------------------- |
@@ -75,7 +75,7 @@ With such partnership and pricing, Roku has accumulated 46 million active accoun
 
 #### Place
 
-Roku generates sales heavily in the United States with major retail distribution channels such as Walmart, Costco, Target, BestBuy, and online retailers such as Amazon. Roku's primary international markets include Canada, the United Kingdom, France, the Republic of Ireland, Mexico, Brazil. It is in the process of expanding its Latin American market. However, the international revenue represented less than 10% in the 3rd quarter report of 2020. It also provides exclusive products to partnering retailers for a better product differentiation among the retailers as follows.
+Roku generates sales heavily in the United States with major retail distribution channels such as Walmart, Costco, Target, BestBuy, and online retailers such as Amazon. Roku's primary international markets include Canada, the United Kingdom, France, the Republic of Ireland, Mexico, Brazil. It is in the process of expanding its Latin American market. Roku also hinted an expansion to China when the U.S-China trade relationship eases with the change in the new administration in the White House. However, the international revenue represented less than 10% in the 3rd quarter report of 2020. It also provides exclusive products to partnering retailers for a better product differentiation among the retailers as follows.
 
 |                                            |
 | ------------------------------------------ |
@@ -87,7 +87,7 @@ Roku has occasional promotions on their players and TV sets. Roku also offers tr
 
 #### 3. Growth Opportunities
 
-In the first month of 2021, Roku has a 50.57 billion dollar market capitalization. Roku [reported a 55% increase](https://blog.roku.com/en-gb/50-million#!#) inactive accounts from 32.3 million in 2019 to over 50 million in the start of 2020. In 2019, Roku also acquired a programmatic marketing software provider, Dataxu. It enhances Roku's ability to advertise more effectively to the viewers. Data is becoming the most valuable asset for every company and Roku can leverage its data from the 46 million active accounts to increase advertising revenues in the future. 
+In the first month of 2021, Roku has around 50 billion dollar market capitalization. Roku [reported a 55% increase](https://blog.roku.com/en-gb/50-million#!#) inactive accounts from 32.3 million in 2019 to over 50 million in the start of 2020. In 2019, Roku also acquired a programmatic marketing software provider, Dataxu. It enhances Roku's ability to advertise more effectively to the viewers. Data is becoming the most valuable asset for every company and Roku can leverage its data from the 50 million+ active accounts to increase advertising revenues in the future. 
 
 Currently, Roku is already providing the channels on its platform with a variety of data analytic resources. For example, its [channel engagement report](https://developer.roku.com/en-gb/docs/features/analytics/channel-engagement.md) provides information on how many hours of content the viewers of that channel is watching and [video statistic report](https://developer.roku.com/en-gb/docs/features/analytics/video-statistics.md) shows which type of content the viewers watch the most. Hence, the content providers can use this information to create a better content library for their audiences. With these attractive features, Roku can grow its channel partnership substantially in the future. With more channels, Roku is also in the best position to attract more customers in the foreseeable future.   
 
