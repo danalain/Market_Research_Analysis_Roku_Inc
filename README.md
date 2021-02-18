@@ -14,6 +14,8 @@ This project will focus on three main tasks:
 2. [Sentiment Analysis](#Sentiment-Analysis): Visualizations of two sentiment analysis methods.
 3. [Investment Strategies](#Investment-Strategies): Short-term trading strategy, Valuation and long term investment of Roku stocks.
 
+#### Disclaimer: It is not intended to be investment advice. Seek a duly licensed professional for investment advice. 
+
 ---
 ### Company Profile
 
